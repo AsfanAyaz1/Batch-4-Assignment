@@ -25,7 +25,7 @@ body{
     }
 
 .right-con{
-    width: 110%;
+    width: 140%;
     height: 1544px;
     position: absolute;
     /*top: 495px;*/
@@ -37,7 +37,7 @@ body{
     height: 1544px;
     position: absolute;
     /*top: 495px;*/
-    left: 1100px;
+    left: 195%;
     margin: 20px 0;
     background-color: black;
  
