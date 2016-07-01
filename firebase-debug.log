@@ -1,0 +1,14 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\Asfan\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.0.4
+[debug] Platform:     win32
+[debug] Node Version: v6.2.2
+[debug] Time:         Fri Jul 01 2016 09:50:13 GMT+0500 (Pakistan Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: \\172.16.1.210\CONE Shared File\Cone Shared\Shared2\Asfan\HTML template\GitHUB
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5000
